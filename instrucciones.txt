@@ -1,0 +1,13 @@
+Instrucciones:
+
+Agregar libreria SDL2_mixer
+-apt-get install libsdl2-mixer-dev 
+
+Comando de compilacion
+-g++  -o escena robot.cpp -lSDL2 -lglut -lGL -lGLU -lSOIL -lSDL2_mixer 
+
+Integrantes:
+-Victor Enrique Coreas Robles
+-Isidro Alberto Vasquez Barrera
+-Guadalupe de Jesus Sagastume Garcia
+-Elida Beatriz Aguilera
